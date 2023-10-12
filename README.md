@@ -1,5 +1,5 @@
 # hi i'm defrost
-15
+developer
 # Currently Learning
 More frontend development
 # Site
